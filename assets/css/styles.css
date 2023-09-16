@@ -11,12 +11,13 @@ body {
 }
 
 .banner {
-    background-image: url('/assets/img/banner.png'); /* Replace with your logo image URL */
+    background-image: url('/assets/img/logo.svg'); /* Replace with your logo image URL */
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 10% 0; /* Adjust the padding as needed for responsiveness */
+    padding: 5% 0; /* Adjust the padding as needed for responsiveness */
     text-align: center;
+    margin-top: 1rem;
 }
 
 .subheading {
